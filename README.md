@@ -1,4 +1,4 @@
-# Hospital API GO Pro (Versi Profesional)
+# api manajemen kinik & rumah sakit
 
 API Backend untuk manajemen data pasien, dokter, dan jadwal praktik. Dibuat dengan Golang dan SQLite. Siap untuk digunakan di sistem rumah sakit/klinik digital.
 
